@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NEW GAME\\Desktop\\SistemaVentas\\SistemaBackend\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\entities\\categor\u00EDa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\entities\\categor\u00EDa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\entities\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\entities\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.domain\\gestionapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EF56783-4D4C-4C7F-B3ED-B04CB7E32D8B}|GestionApp.Domain\\GestionApp.Domain.csproj|solutionrelative:gestionapp.domain\\gestionapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E893C-3AE6-461B-A178-2CC131B2BF57}|GestionApp.Infraestructure\\GestionApp.Infraestructure.csproj|c:\\users\\new game\\documents\\github\\sistemagestion-fullstack\\sistemabackend\\gestionapp.infraestructure\\gestionapp.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A2E893C-3AE6-461B-A178-2CC131B2BF57}|GestionApp.Infraestructure\\GestionApp.Infraestructure.csproj|solutionrelative:gestionapp.infraestructure\\gestionapp.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionApp.Domain",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\GestionApp.Domain.csproj",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\GestionApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\GestionApp.Domain.csproj",
+              "RelativeToolTip": "GestionApp.Domain\\GestionApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T14:05:17.789Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -22,6 +72,114 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Enums.cs",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\Enums.cs",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Enums.cs",
+              "RelativeToolTip": "GestionApp.Domain\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:05:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "GestionApp.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:49:27.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\Entities\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\DetalleVenta.cs",
+              "RelativeToolTip": "GestionApp.Domain\\Entities\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:48:50.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "GestionApp.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:48:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Venta.cs",
+              "RelativeToolTip": "GestionApp.Domain\\Entities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:48:29.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categor\u00EDa.cs",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Categor\u00EDa.cs",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\Entities\\Categor\u00EDa.cs",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Categor\u00EDa.cs",
+              "RelativeToolTip": "GestionApp.Domain\\Entities\\Categor\u00EDa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:48:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Clientes.cs",
+              "RelativeDocumentMoniker": "GestionApp.Domain\\Entities\\Clientes.cs",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\Entities\\Clientes.cs",
+              "RelativeToolTip": "GestionApp.Domain\\Entities\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:48:14.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestionApp.Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Infraestructure\\GestionApp.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "GestionApp.Infraestructure\\GestionApp.Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Infraestructure\\GestionApp.Infraestructure.csproj",
+              "RelativeToolTip": "GestionApp.Infraestructure\\GestionApp.Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T14:06:46.658Z",
+              "EditorCaption": ""
             }
           ]
         }
