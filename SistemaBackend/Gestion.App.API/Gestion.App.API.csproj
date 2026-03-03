@@ -8,10 +8,20 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestionApp.Business\GestionApp.Business.csproj" />
+    <ProjectReference Include="..\GestionApp.Domain\GestionApp.Domain.csproj" />
+    <ProjectReference Include="..\GestionApp.Infraestructure\GestionApp.Infraestructure.csproj" />
   </ItemGroup>
 
 </Project>

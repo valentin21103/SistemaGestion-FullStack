@@ -1,0 +1,20 @@
+
+
+
+
+
+El Controlador es tonto: La capa API (los Controladores) solo debe saber de HTTP. Su único trabajo es decir "Hola, recibí una petición 200 OK" o "Che, te faltó un dato
+, 400 Bad Request". No debe saber nada de reglas de negocio.
+
+
+El Repositorio es ciego: La capa Infraestructure solo sabe guardar y buscar en Azure. Si le mandás un producto con precio negativo,
+el Repositorio lo guarda igual porque no razona, solo ejecuta.
+
+El "Cerebro" (La capa Business): Acá es donde vive la lógica real de tu sistema. Es el Gerente.
+
+Ejemplo real: Antes de guardar una Venta, la capa Business verifica si el Cliente existe, si hay Stock disponible en el Producto, 
+calcula el IVA, y recién ahí, si está todo perfecto, le da la orden al Repositorio: "Guardalo".
+
+¿Cómo es el flujo nivel Enterprise?
+El viaje de un dato en tu sistema va a ser así:
+Angular (Frontend) -> API (Controller) -> BUSINESS (Service) -> INFRA (Repository) -> Azure DB

@@ -8,18 +8,19 @@ namespace GestionApp.Domain.Entities
     public class Venta
     {
         public int Id { get; set; }
-
-        public DateTime fecha { get; set; }
-
-        public MetodoDePago metodoDePago { get; set; }
-
+        public DateTime Fecha { get; set; }
+        public MetodoDePago MetodoDePago { get; set; } 
         public decimal Total { get; set; }
 
+        // Vendedor
+        public int UsuarioId { get; set; }
+        public  Usuario? Usuario { get; set; }
+
+        // Cliente
         public int ClienteId { get; set; }
+        public  Cliente? Cliente { get; set; }
 
-        public required virtual Clientes Cliente  { get; set; }
-
-        public required  virtual ICollection<DetalleVenta> Detalles { get;set; }
+        public  ICollection<DetalleVenta> Detalles { get; set; } = new List<DetalleVenta>();
 
 
     }

@@ -1,0 +1,12 @@
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\bin\Debug\net10.0\GestionApp.Business.deps.json
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\bin\Debug\net10.0\GestionApp.Business.dll
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\bin\Debug\net10.0\GestionApp.Business.pdb
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.AssemblyInfoInputs.cache
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.AssemblyInfo.cs
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.sourcelink.json
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.dll
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\refint\GestionApp.Business.dll
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.pdb
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\ref\GestionApp.Business.dll
