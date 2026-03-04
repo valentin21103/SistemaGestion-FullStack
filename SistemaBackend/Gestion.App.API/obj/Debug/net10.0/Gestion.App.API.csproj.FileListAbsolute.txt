@@ -164,3 +164,4 @@ C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\Gesti
 C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\Gestion.App.API\obj\Debug\net10.0\Gestion.App.API.pdb
 C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\Gestion.App.API\obj\Debug\net10.0\Gestion.App.API.genruntimeconfig.cache
 C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\Gestion.App.API\obj\Debug\net10.0\ref\Gestion.App.API.dll
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\Gestion.App.API\bin\Debug\net10.0\Scalar.AspNetCore.dll

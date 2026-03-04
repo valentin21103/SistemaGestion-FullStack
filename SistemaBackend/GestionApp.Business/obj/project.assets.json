@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "GestionApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/GestionApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestionApp.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GestionApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GestionApp.Domain/GestionApp.Domain.csproj",
+      "msbuildProject": "../GestionApp.Domain/GestionApp.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "GestionApp.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\NEW GAME\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\GestionApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\GestionApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

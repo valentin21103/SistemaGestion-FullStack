@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "GestionApp.Business/1.0.0": {
+        "dependencies": {
+          "GestionApp.Domain": "1.0.0"
+        },
         "runtime": {
           "GestionApp.Business.dll": {}
+        }
+      },
+      "GestionApp.Domain/1.0.0": {
+        "runtime": {
+          "GestionApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "GestionApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionApp.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

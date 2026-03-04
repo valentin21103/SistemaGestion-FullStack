@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.2, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.13.0, )"
             }
           },
           "imports": [
@@ -535,7 +539,11 @@
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\GestionApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\GestionApp.Domain\\GestionApp.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

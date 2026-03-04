@@ -10,3 +10,7 @@ C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\Gesti
 C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\refint\GestionApp.Business.dll
 C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.pdb
 C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\ref\GestionApp.Business.dll
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\bin\Debug\net10.0\GestionApp.Domain.dll
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\bin\Debug\net10.0\GestionApp.Domain.pdb
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionApp.Business.csproj.AssemblyReference.cache
+C:\Users\NEW GAME\Documents\GitHub\SistemaGestion-FullStack\SistemaBackend\GestionApp.Business\obj\Debug\net10.0\GestionA.E1E6150D.Up2Date

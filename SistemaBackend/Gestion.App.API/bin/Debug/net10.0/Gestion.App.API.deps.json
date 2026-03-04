@@ -12,7 +12,8 @@
           "GestionApp.Domain": "1.0.0",
           "GestionApp.Infraestructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.2",
-          "Microsoft.EntityFrameworkCore.Design": "10.0.2"
+          "Microsoft.EntityFrameworkCore.Design": "10.0.2",
+          "Scalar.AspNetCore": "2.13.0"
         },
         "runtime": {
           "Gestion.App.API.dll": {}
@@ -650,6 +651,14 @@
           }
         }
       },
+      "Scalar.AspNetCore/2.13.0": {
+        "runtime": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "assemblyVersion": "2.13.0.0",
+            "fileVersion": "2.13.0.0"
+          }
+        }
+      },
       "System.ClientModel/1.5.1": {
         "dependencies": {
           "System.Memory.Data": "8.0.1"
@@ -769,6 +778,9 @@
         }
       },
       "GestionApp.Business/1.0.0": {
+        "dependencies": {
+          "GestionApp.Domain": "1.0.0"
+        },
         "runtime": {
           "GestionApp.Business.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -1035,6 +1047,13 @@
       "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "path": "newtonsoft.json/13.0.3",
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Scalar.AspNetCore/2.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gKDGlsqFVFuMjuczEldykVFJifPJmQP/o4k49g4g/LOkFOIt8YaIp7om762Wol3uzTmBlgkp2cGMhCPhU64iEQ==",
+      "path": "scalar.aspnetcore/2.13.0",
+      "hashPath": "scalar.aspnetcore.2.13.0.nupkg.sha512"
     },
     "System.ClientModel/1.5.1": {
       "type": "package",

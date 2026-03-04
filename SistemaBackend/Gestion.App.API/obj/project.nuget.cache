@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AmtjdQ09PZ4=",
+  "dgSpecHash": "K4h6Q2e+a7E=",
   "success": true,
   "projectFilePath": "C:\\Users\\NEW GAME\\Documents\\GitHub\\SistemaGestion-FullStack\\SistemaBackend\\Gestion.App.API\\Gestion.App.API.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\NEW GAME\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\NEW GAME\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\NEW GAME\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\NEW GAME\\.nuget\\packages\\scalar.aspnetcore\\2.13.0\\scalar.aspnetcore.2.13.0.nupkg.sha512",
     "C:\\Users\\NEW GAME\\.nuget\\packages\\system.clientmodel\\1.5.1\\system.clientmodel.1.5.1.nupkg.sha512",
     "C:\\Users\\NEW GAME\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\NEW GAME\\.nuget\\packages\\system.composition\\9.0.0\\system.composition.9.0.0.nupkg.sha512",

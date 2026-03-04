@@ -826,6 +826,22 @@
           }
         }
       },
+      "Scalar.AspNetCore/2.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "System.ClientModel/1.5.1": {
         "type": "package",
         "dependencies": {
@@ -1061,6 +1077,9 @@
       "GestionApp.Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "GestionApp.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/GestionApp.Business.dll": {}
         },
@@ -2794,6 +2813,25 @@
         "packageIcon.png"
       ]
     },
+    "Scalar.AspNetCore/2.13.0": {
+      "sha512": "gKDGlsqFVFuMjuczEldykVFJifPJmQP/o4k49g4g/LOkFOIt8YaIp7om762Wol3uzTmBlgkp2cGMhCPhU64iEQ==",
+      "type": "package",
+      "path": "scalar.aspnetcore/2.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net10.0/Scalar.AspNetCore.dll",
+        "lib/net10.0/Scalar.AspNetCore.xml",
+        "lib/net8.0/Scalar.AspNetCore.dll",
+        "lib/net8.0/Scalar.AspNetCore.xml",
+        "lib/net9.0/Scalar.AspNetCore.dll",
+        "lib/net9.0/Scalar.AspNetCore.xml",
+        "scalar.aspnetcore.2.13.0.nupkg.sha512",
+        "scalar.aspnetcore.nuspec"
+      ]
+    },
     "System.ClientModel/1.5.1": {
       "sha512": "k2jKSO0X45IqhVOT9iQB4xralNN9foRQsRvXBTyRpAVxyzCJlG895T9qYrQWbcJ6OQXxOouJQ37x5nZH5XKK+A==",
       "type": "package",
@@ -3169,7 +3207,8 @@
       "GestionApp.Domain >= 1.0.0",
       "GestionApp.Infraestructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.2",
-      "Microsoft.EntityFrameworkCore.Design >= 10.0.2"
+      "Microsoft.EntityFrameworkCore.Design >= 10.0.2",
+      "Scalar.AspNetCore >= 2.13.0"
     ]
   },
   "packageFolders": {
@@ -3241,6 +3280,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[10.0.2, )"
+          },
+          "Scalar.AspNetCore": {
+            "target": "Package",
+            "version": "[2.13.0, )"
           }
         },
         "imports": [

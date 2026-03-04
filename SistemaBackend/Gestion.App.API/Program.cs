@@ -1,6 +1,9 @@
+using GestionApp.Business.Interfaces;
+using GestionApp.Business.Services;
 using GestionApp.Domain.Interfaces;
 using GestionApp.Infraestructure.Data;
 using Microsoft.EntityFrameworkCore;
+using Scalar.AspNetCore;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,6 +30,7 @@ Significa que cada vez que un usuario desde Angular o desde su celular haga una 
 .NET va a crear una sola copia de tu Repositorio y la va a destruir cuando le devuelva la respuesta. Es súper eficiente y no satura la memoria.
  */
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -38,6 +42,7 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.MapScalarApiReference();
 }
 
 app.UseHttpsRedirection();
